@@ -9,6 +9,9 @@ Pandas: Los datos extraídos se almacenaron en un DataFrame de Pandas, lo que pe
 Comandos para instalar las librerías:
 
 Si no tienes instaladas estas librerías, puedes hacerlo usando pip con los siguientes comandos:
+
 pip install beautifulsoup4
+
 pip install selenium
+
 pip install pandas
