@@ -1,4 +1,4 @@
-En este proyecto, se utilizó BeautifulSoup, Selenium, y Pandas para realizar web scraping de una página de ofertas en Mercado Libre. El objetivo era extraer información relevante de los productos listados, incluyendo nombres, precios, y enlaces, para su posterior análisis y almacenamiento en un DataFrame de Pandas.
+En este proyecto, se utilizó BeautifulSoup, Selenium, y Pandas para realizar web scraping de una página de ofertas en Mercado Libre. El objetivo era extraer información relevante de los productos listados, incluyendo nombres, precios, y descuentos , para su posterior análisis y almacenamiento en un DataFrame de Pandas.
 
 Selenium: Se utilizó Selenium para interactuar con la página web de manera dinámica. Esto incluyó la navegación a través de varias páginas (paginación) hasta la página 20, y la simulación de acciones del usuario, como hacer clic en los botones de "siguiente página".
 
